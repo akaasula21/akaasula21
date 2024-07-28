@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[AI Engineer & Software Developer]** with experience in **[AI/ML, Software Development, Cloud Integration, and Networking]**. I love tackling complex problems, learning new technologies, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **AI Engineer & Software Developer** with experience in **AI/ML, Software Development, Cloud Integration, and Networking**. I love tackling complex problems, learning new technologies, and collaborating with diverse teams to create innovative solutions.
 
 - **Languages:** Python, C, JavaScript, HTML/CSS, SQL
 - **AI/ML:** TensorFlow, Scikit-Learn, OpenCV, PyTorch, ChromaDB
